@@ -6,3 +6,5 @@
 **.local/
 **.npm/
 /.quarto/
+.bash_history
+submission**
